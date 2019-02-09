@@ -16,3 +16,5 @@ class Blog2(models.Model):
 
     def __str__(self):
         return self.title
+
+class Blog3(models.Model)
